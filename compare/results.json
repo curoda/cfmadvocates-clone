@@ -1,0 +1,642 @@
+[
+  {
+    "path": "/",
+    "origHd": 2776,
+    "cloneHd": 2776,
+    "hDiffDpct": 0,
+    "origHm": 7039,
+    "cloneHm": 7039,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.36
+  },
+  {
+    "path": "/30-years-and-counting/",
+    "origHd": 14437,
+    "cloneHd": 14437,
+    "hDiffDpct": 0,
+    "origHm": 44692,
+    "cloneHm": 44692,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/about/",
+    "origHd": 3208,
+    "cloneHd": 3208,
+    "hDiffDpct": 0,
+    "origHm": 8075,
+    "cloneHm": 8075,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/amanda-delapena-joins-cfm/",
+    "origHd": 2510,
+    "cloneHd": 2510,
+    "hDiffDpct": 0,
+    "origHm": 5020,
+    "cloneHm": 5020,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/case-studies/",
+    "origHd": 5736,
+    "cloneHd": 5736,
+    "hDiffDpct": 0,
+    "origHm": 12020,
+    "cloneHm": 12020,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.03
+  },
+  {
+    "path": "/case-studies/page/2/",
+    "origHd": 5736,
+    "cloneHd": 5736,
+    "hDiffDpct": 0,
+    "origHm": 12020,
+    "cloneHm": 12020,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.03
+  },
+  {
+    "path": "/case-studies/page/3/",
+    "origHd": 5736,
+    "cloneHd": 5736,
+    "hDiffDpct": 0,
+    "origHm": 12020,
+    "cloneHm": 12020,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.03
+  },
+  {
+    "path": "/case_studies/barging-solid-waste-containers-into-the-future/",
+    "origHd": 2507,
+    "cloneHd": 2507,
+    "hDiffDpct": 0,
+    "origHm": 5438,
+    "cloneHm": 5438,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/building-the-case-for-completing-rail-corridor-2/",
+    "origHd": 2243,
+    "cloneHd": 2243,
+    "hDiffDpct": 0,
+    "origHm": 4946,
+    "cloneHm": 4946,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/building-the-case-for-completing-rail-corridor/",
+    "origHd": 2262,
+    "cloneHd": 2262,
+    "hDiffDpct": 0,
+    "origHm": 4812,
+    "cloneHm": 4812,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/creating-a-new-veterans-center-in-lacey/",
+    "origHd": 2357,
+    "cloneHd": 2357,
+    "hDiffDpct": 0,
+    "origHm": 5315,
+    "cloneHm": 5315,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/erickson-inc/",
+    "origHd": 2195,
+    "cloneHd": 2195,
+    "hDiffDpct": 0,
+    "origHm": 4687,
+    "cloneHm": 4687,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/heading-off-a-veto-for-critical-infrastructure/",
+    "origHd": 2410,
+    "cloneHd": 2410,
+    "hDiffDpct": 0,
+    "origHm": 5340,
+    "cloneHm": 5340,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/helping-beaverton-revitalize-its-downtown/",
+    "origHd": 1765,
+    "cloneHd": 1765,
+    "hDiffDpct": 0,
+    "origHm": 3412,
+    "cloneHm": 3412,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/highlighting-challenges-facing-older-adults/",
+    "origHd": 2055,
+    "cloneHd": 2055,
+    "hDiffDpct": 0,
+    "origHm": 4600,
+    "cloneHm": 4600,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/making-the-case-for-transit-funding-statewide/",
+    "origHd": 2154,
+    "cloneHd": 2154,
+    "hDiffDpct": 0,
+    "origHm": 4820,
+    "cloneHm": 4820,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/marketing-a-pioneering-public-retirement-savings-plan/",
+    "origHd": 2285,
+    "cloneHd": 2285,
+    "hDiffDpct": 0,
+    "origHm": 4941,
+    "cloneHm": 4941,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/",
+    "origHd": 2171,
+    "cloneHd": 2171,
+    "hDiffDpct": 0,
+    "origHm": 4656,
+    "cloneHm": 4656,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/preserving-critical-support-for-child-abuse-victims/",
+    "origHd": 2261,
+    "cloneHd": 2261,
+    "hDiffDpct": 0,
+    "origHm": 5293,
+    "cloneHm": 5293,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/",
+    "origHd": 2262,
+    "cloneHd": 2262,
+    "hDiffDpct": 0,
+    "origHm": 4963,
+    "cloneHm": 4963,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/responding-to-catastrophic-flood-prevention/",
+    "origHd": 2568,
+    "cloneHd": 2568,
+    "hDiffDpct": 0,
+    "origHm": 5295,
+    "cloneHm": 5295,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/restoring-county-funding-for-search-and-rescue/",
+    "origHd": 2582,
+    "cloneHd": 2582,
+    "hDiffDpct": 0,
+    "origHm": 5723,
+    "cloneHm": 5723,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/restoring-tax-credits-to-buy-zero-emission-buses/",
+    "origHd": 2424,
+    "cloneHd": 2424,
+    "hDiffDpct": 0,
+    "origHm": 5343,
+    "cloneHm": 5343,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/securing-funding-for-a-state-road-in-tigard/",
+    "origHd": 2257,
+    "cloneHd": 2257,
+    "hDiffDpct": 0,
+    "origHm": 4730,
+    "cloneHm": 4730,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/securing-funding-for-electric-buses-in-salem/",
+    "origHd": 2497,
+    "cloneHd": 2497,
+    "hDiffDpct": 0,
+    "origHm": 5615,
+    "cloneHm": 5615,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/securing-funding-to-replace-aging-county-courthouse/",
+    "origHd": 2307,
+    "cloneHd": 2307,
+    "hDiffDpct": 0,
+    "origHm": 5078,
+    "cloneHm": 5078,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/sharing-communication-tips-with-city-lobbyists/",
+    "origHd": 2225,
+    "cloneHd": 2225,
+    "hDiffDpct": 0,
+    "origHm": 4582,
+    "cloneHm": 4582,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/case_studies/training-young-lawyers-to-represent-defendants/",
+    "origHd": 2497,
+    "cloneHd": 2497,
+    "hDiffDpct": 0,
+    "origHm": 5552,
+    "cloneHm": 5552,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/cfm-adds-dc-staff-member-to-federal-team/",
+    "origHd": 3036,
+    "cloneHd": 3036,
+    "hDiffDpct": 0,
+    "origHm": 6047,
+    "cloneHm": 6047,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/cfm-adds-experienced-new-team-member/",
+    "origHd": 3810,
+    "cloneHd": 3810,
+    "hDiffDpct": 0,
+    "origHm": 7579,
+    "cloneHm": 7579,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/cfm-adds-three-new-equity-partners/",
+    "origHd": 3953,
+    "cloneHd": 3953,
+    "hDiffDpct": 0,
+    "origHm": 7700,
+    "cloneHm": 7700,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/critique-crisis-response-to-improve-crisis/",
+    "origHd": 3324,
+    "cloneHd": 3324,
+    "hDiffDpct": 0,
+    "origHm": 6142,
+    "cloneHm": 6142,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/former-dot-special-assistant-joins-team-cfm/",
+    "origHd": 3443,
+    "cloneHd": 3443,
+    "hDiffDpct": 0,
+    "origHm": 7018,
+    "cloneHm": 7018,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/federal-affairs/",
+    "origHd": 4310,
+    "cloneHd": 4310,
+    "hDiffDpct": 0,
+    "origHm": 14192,
+    "cloneHm": 14192,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.03
+  },
+  {
+    "path": "/former-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs/",
+    "origHd": 3170,
+    "cloneHd": 3170,
+    "hDiffDpct": 0,
+    "origHm": 6362,
+    "cloneHm": 6362,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/get-in-touch/",
+    "origHd": 2071,
+    "cloneHd": 2071,
+    "hDiffDpct": 0,
+    "origHm": 3007,
+    "cloneHm": 3007,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/madelynn-sakay-joins-cfms-federal-affairs-team-to-help-advance-client-priorities/",
+    "origHd": 2829,
+    "cloneHd": 2829,
+    "hDiffDpct": 0,
+    "origHm": 5445,
+    "cloneHm": 5445,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/news/",
+    "origHd": 3430,
+    "cloneHd": 3430,
+    "hDiffDpct": 0,
+    "origHm": 5580,
+    "cloneHm": 5580,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/privacy-policy/",
+    "origHd": 2151,
+    "cloneHd": 2151,
+    "hDiffDpct": 0,
+    "origHm": 4536,
+    "cloneHm": 4536,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/public-affairs/",
+    "origHd": 3952,
+    "cloneHd": 3952,
+    "hDiffDpct": 0,
+    "origHm": 11792,
+    "cloneHm": 11792,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.04
+  },
+  {
+    "path": "/retired-cfm-research-partner-tom-eiland-dies/",
+    "origHd": 4494,
+    "cloneHd": 4494,
+    "hDiffDpct": 0,
+    "origHm": 9410,
+    "cloneHm": 9410,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/staff/amanda-delapena/",
+    "origHd": 1642,
+    "cloneHd": 1642,
+    "hDiffDpct": 0,
+    "origHm": 3021,
+    "cloneHm": 3021,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/dale-penn-ii/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2334,
+    "cloneHm": 2334,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/staff/david-hodges/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2334,
+    "cloneHm": 2334,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/elena-molau/",
+    "origHd": 1444,
+    "cloneHd": 1444,
+    "hDiffDpct": 0,
+    "origHm": 2420,
+    "cloneHm": 2420,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/gary-conkling/",
+    "origHd": 1444,
+    "cloneHd": 1444,
+    "hDiffDpct": 0,
+    "origHm": 2449,
+    "cloneHm": 2449,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/jessica-adamson/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2391,
+    "cloneHm": 2391,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/joel-rubin/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2362,
+    "cloneHm": 2362,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/kamron-brant/",
+    "origHd": 1386,
+    "cloneHd": 1386,
+    "hDiffDpct": 0,
+    "origHm": 2247,
+    "cloneHm": 2247,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/kate-travis/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2362,
+    "cloneHm": 2362,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/katie-whittier/",
+    "origHd": 1502,
+    "cloneHd": 1502,
+    "hDiffDpct": 0,
+    "origHm": 2593,
+    "cloneHm": 2593,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/kirby-garrett/",
+    "origHd": 1530,
+    "cloneHd": 1530,
+    "hDiffDpct": 0,
+    "origHm": 2823,
+    "cloneHm": 2823,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/legislative-assistant/",
+    "origHd": 1358,
+    "cloneHd": 1358,
+    "hDiffDpct": 0,
+    "origHm": 2161,
+    "cloneHm": 2161,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/madelynn-sakay/",
+    "origHd": 1530,
+    "cloneHd": 1530,
+    "hDiffDpct": 0,
+    "origHm": 2766,
+    "cloneHm": 2766,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/staff/michael-skipper/",
+    "origHd": 1386,
+    "cloneHd": 1386,
+    "hDiffDpct": 0,
+    "origHm": 2247,
+    "cloneHm": 2247,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/staff/naseem-mehyar/",
+    "origHd": 1595,
+    "cloneHd": 1595,
+    "hDiffDpct": 0,
+    "origHm": 2773,
+    "cloneHm": 2773,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/norm-eder/",
+    "origHd": 1502,
+    "cloneHd": 1502,
+    "hDiffDpct": 0,
+    "origHm": 2622,
+    "cloneHm": 2622,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.01
+  },
+  {
+    "path": "/staff/page-strickler/",
+    "origHd": 1473,
+    "cloneHd": 1473,
+    "hDiffDpct": 0,
+    "origHm": 2593,
+    "cloneHm": 2593,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/ryann-gleason/",
+    "origHd": 1415,
+    "cloneHd": 1415,
+    "hDiffDpct": 0,
+    "origHm": 2362,
+    "cloneHm": 2362,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/waylon-buchan/",
+    "origHd": 1502,
+    "cloneHd": 1502,
+    "hDiffDpct": 0,
+    "origHm": 2650,
+    "cloneHm": 2650,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/staff/zach-reeves/",
+    "origHd": 1332,
+    "cloneHd": 1332,
+    "hDiffDpct": 0,
+    "origHm": 2116,
+    "cloneHm": 2116,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/state-affairs/",
+    "origHd": 3881,
+    "cloneHd": 3881,
+    "hDiffDpct": 0,
+    "origHm": 11971,
+    "cloneHm": 11971,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/team/",
+    "origHd": 3877,
+    "cloneHd": 3877,
+    "hDiffDpct": 0,
+    "origHm": 11149,
+    "cloneHm": 11149,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.02
+  },
+  {
+    "path": "/thank-you/",
+    "origHd": 1865,
+    "cloneHd": 1865,
+    "hDiffDpct": 0,
+    "origHm": 4594,
+    "cloneHm": 4594,
+    "hDiffMpct": 0,
+    "heroDiffPct": 0.1
+  }
+]
