@@ -1,0 +1,43 @@
+{
+  "title": "State and Federal Lobbying and Public Affairs Consultants - CFM Advocates - CFM Advocates",
+  "description": "/CFM Advocates - our state and federal lobbyists are experts in implementing public policy change for companies, associations and non-profits in Oregon and Washington.",
+  "canonical": "/",
+  "robots": "/index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1/",
+  "viewport": "/height=device-height,width=device-width,initial-scale=1/",
+  "og": {
+    "og:type": "/website/",
+    "og:url": "/",
+    "og:locale": "/en_US/",
+    "og:title": "/CFM Advocates/",
+    "og:description": "/Federal and State Lobbying and Public Affairs Firm/",
+    "og:site_name": "/CFM Advocates/"
+  },
+  "twitter": {
+    "twitter:card": "/summary_large_image/",
+    "twitter:title": "/CFM Advocates/",
+    "twitter:description": "/Federal and State Lobbying and Public Affairs Firm/"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+    "https://cfmadvocates-clone.vercel.app/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+  ]
+}

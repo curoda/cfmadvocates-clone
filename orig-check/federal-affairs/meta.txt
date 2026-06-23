@@ -1,0 +1,43 @@
+{
+  "title": "Federal Affairs - CFM Advocates",
+  "description": null,
+  "canonical": "https://cfmadvocates.com/federal-affairs/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/federal-affairs/",
+    "og:locale": "en_US",
+    "og:title": "Federal Affairs",
+    "og:description": "Highly skilled, DC-based Federal Affairs Team advocates for a diverse set of clients before Congress and federal agencies. The Federal Affairs Team has helped Washington and Oregon communities, ports and transit agencies bring home millions of dollars from competitive federal grants. The team also represents transportation, health and trade clients nationally and has important connections with key congressional committees, leadership and the administration.[vc_column_inner width='1/2' css='.vc_custom_1649877434637{margin-bottom: 30px !important;}'][vc_custom_heading text='SUPPORTING AND OPPOSING LEGISLATION' font_container='tag:h3|text_align:left|color:%23242b32' use_theme_fonts='yes' css='.vc_custom_1651516753431{margin-bottom: 10px",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Federal Affairs",
+    "twitter:description": "Highly skilled, DC-based Federal Affairs Team advocates for a diverse set of clients before Congress and federal agencies. The Federal Affairs Team has helped Washington and Oregon communities, ports and transit agencies bring home millions of dollars from competitive federal grants. The team also represents transportation, health and trade clients nationally and has important connections with key congressional committees, leadership and the administration.[vc_column_inner width='1/2' css='.vc_custom_1649877434637{margin-bottom: 30px !important;}'][vc_custom_heading text='SUPPORTING AND OPPOSING LEGISLATION' font_container='tag:h3|text_align:left|color:%23242b32' use_theme_fonts='yes' css='.vc_custom_1651516753431{margin-bottom: 10px"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+  ]
+}

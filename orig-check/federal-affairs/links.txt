@@ -1,0 +1,61 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/case-studies/	all our success stories
+INTERNAL	https://cfmadvocates.com/case_studies/building-the-case-for-completing-rail-corridor-2/	
+INTERNAL	https://cfmadvocates.com/case_studies/building-the-case-for-completing-rail-corridor-2/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/responding-to-catastrophic-flood-prevention/	
+INTERNAL	https://cfmadvocates.com/case_studies/responding-to-catastrophic-flood-prevention/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/creating-a-new-veterans-center-in-lacey/	
+INTERNAL	https://cfmadvocates.com/case_studies/creating-a-new-veterans-center-in-lacey/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/barging-solid-waste-containers-into-the-future/	
+INTERNAL	https://cfmadvocates.com/case_studies/barging-solid-waste-containers-into-the-future/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/restoring-county-funding-for-search-and-rescue/	
+INTERNAL	https://cfmadvocates.com/case_studies/restoring-county-funding-for-search-and-rescue/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/securing-funding-for-electric-buses-in-salem/	
+INTERNAL	https://cfmadvocates.com/case_studies/securing-funding-for-electric-buses-in-salem/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	
+EXTERNAL	https://www.linkedin.com/in/rubinjoel/	
+EXTERNAL	mailto:joelr@cfmdc.com	
+EXTERNAL	https://www.linkedin.com/in/kirby-j-garrett-41a72537/	
+EXTERNAL	mailto:kirbyg@CFMDC.com	
+EXTERNAL	https://www.linkedin.com/in/david-hodges-7552243/	
+EXTERNAL	mailto:davidh@CFMPDX.com	
+EXTERNAL	mailto:pages@cfmpdx.com	
+EXTERNAL	https://www.linkedin.com/in/michaelfskipper/	
+EXTERNAL	mailto:michaels@CFMDC.com	
+EXTERNAL	mailto:kamronb@cfmdc.com	
+EXTERNAL	mailto:katiew@cfmpnw.com	
+EXTERNAL	mailto:tarak@cfmdc.com	
+EXTERNAL	mailto:katet@cfmdc.com	
+EXTERNAL	https://www.linkedin.com/in/naseem-meh/	
+EXTERNAL	mailto:naseemm@cfmdc.com	
+EXTERNAL	mailto:madelynns@cfmdc.com	

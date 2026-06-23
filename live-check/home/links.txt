@@ -1,0 +1,49 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	/about/	About
+INTERNAL	/30-years-and-counting/	30 Years and Counting
+INTERNAL	/team/	The CFM Team
+INTERNAL	/state-affairs/	State Affairs
+INTERNAL	/federal-affairs/	Federal Affairs
+INTERNAL	/public-affairs/	Public Affairs
+INTERNAL	/case-studies/	Case Studies
+INTERNAL	/get-in-touch/	Get In Touch
+INTERNAL	/	
+INTERNAL	/get-in-touch/	Get In Touch
+INTERNAL	/about/	About
+INTERNAL	/team/	The CFM Team
+INTERNAL	/30-years-and-counting/	30 Years and Counting
+INTERNAL	/news/	CFM Insider
+INTERNAL	/state-affairs/	State Affairs
+INTERNAL	/federal-affairs/	Federal Affairs
+INTERNAL	/public-affairs/	Public Affairs
+INTERNAL	/case-studies/	Case Studies
+INTERNAL	/	
+INTERNAL	/about/	About
+INTERNAL	/team/	The CFM Team
+INTERNAL	/30-years-and-counting/	30 Years and Counting
+INTERNAL	/news/	CFM Insider
+INTERNAL	/state-affairs/	State Affairs
+INTERNAL	/federal-affairs/	Federal Affairs
+INTERNAL	/public-affairs/	Public Affairs
+INTERNAL	/case-studies/	Case Studies
+INTERNAL	/about/	ABOUT CFM
+INTERNAL	/state-affairs/	Our Approach
+INTERNAL	/federal-affairs/	Delivering Results
+INTERNAL	/public-affairs/	Shaping Opinion
+INTERNAL	/case-studies/	case studies here.
+INTERNAL	/case_studies/erickson-inc/	
+INTERNAL	/case_studies/erickson-inc/	Read More
+INTERNAL	/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	
+INTERNAL	/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	Read More
+INTERNAL	/case_studies/preserving-critical-support-for-child-abuse-victims/	
+INTERNAL	/case_studies/preserving-critical-support-for-child-abuse-victims/	Read More
+INTERNAL	/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/	
+INTERNAL	/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/	Read More
+INTERNAL	/case_studies/building-the-case-for-completing-rail-corridor-2/	
+INTERNAL	/case_studies/building-the-case-for-completing-rail-corridor-2/	Read More
+INTERNAL	/case_studies/responding-to-catastrophic-flood-prevention/	
+INTERNAL	/case_studies/responding-to-catastrophic-flood-prevention/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	
