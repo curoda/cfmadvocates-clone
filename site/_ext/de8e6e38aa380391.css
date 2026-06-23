@@ -1,0 +1,57 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * lato:
+ *   - http://typekit.com/eulas/00000000000000000001522d
+ *   - http://typekit.com/eulas/000000000000000000015232
+ *   - http://typekit.com/eulas/000000000000000000015231
+ *   - http://typekit.com/eulas/00000000000000000001522c
+ *   - http://typekit.com/eulas/000000000000000000015226
+ *   - http://typekit.com/eulas/000000000000000000015230
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-04-05 21:19:35 UTC"}*/
+
+@import url("/_ext/463ecfde8bca6add.css");
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/a4758820a6612e01.bin") format("woff2"),url("/_ext/e358997fc9c592ee.bin") format("woff"),url("/_ext/4c50cc03270dc02f.bin") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/5edb4b27d395b053.bin") format("woff2"),url("/_ext/4d57f5e14032a3bf.bin") format("woff"),url("/_ext/bb2bdde08e87dcde.bin") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/49f3d66b9ba1900b.bin") format("woff2"),url("/_ext/250b11ef1b4b67c0.bin") format("woff"),url("/_ext/9748f64c11289cc4.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/d8e19ce724f72adc.bin") format("woff2"),url("/_ext/83b9e23525233f7d.bin") format("woff"),url("/_ext/1d86833b7c61ce48.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/83ad52fcaf44a8c3.bin") format("woff2"),url("/_ext/baa3080bcf7f5b0a.bin") format("woff"),url("/_ext/e0616be415ebfe1c.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("/_ext/d2eaeba78e688ac5.bin") format("woff2"),url("/_ext/98d7a92259f15354.bin") format("woff"),url("/_ext/3a8e8c86e3e77d2b.bin") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+.tk-lato { font-family: "lato",sans-serif; }
