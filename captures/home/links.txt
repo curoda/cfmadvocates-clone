@@ -1,0 +1,49 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/about/	ABOUT CFM
+INTERNAL	https://cfmadvocates.com/state-affairs/	Our Approach
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Delivering Results
+INTERNAL	https://cfmadvocates.com/public-affairs/	Shaping Opinion
+INTERNAL	/case-studies/	case studies here.
+INTERNAL	https://cfmadvocates.com/case_studies/erickson-inc/	
+INTERNAL	https://cfmadvocates.com/case_studies/erickson-inc/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	
+INTERNAL	https://cfmadvocates.com/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/preserving-critical-support-for-child-abuse-victims/	
+INTERNAL	https://cfmadvocates.com/case_studies/preserving-critical-support-for-child-abuse-victims/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/	
+INTERNAL	https://cfmadvocates.com/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/building-the-case-for-completing-rail-corridor-2/	
+INTERNAL	https://cfmadvocates.com/case_studies/building-the-case-for-completing-rail-corridor-2/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/responding-to-catastrophic-flood-prevention/	
+INTERNAL	https://cfmadvocates.com/case_studies/responding-to-catastrophic-flood-prevention/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	
