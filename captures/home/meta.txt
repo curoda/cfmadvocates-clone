@@ -19,7 +19,7 @@
   },
   "scripts": [
     "https://www.google-analytics.com/analytics.js",
-    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0h2",
     "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
     "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
     "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",

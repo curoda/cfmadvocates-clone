@@ -1,0 +1,17 @@
+"Times New Roman"
+"small=0em&medium=48em&large=62em&xlarge=75em&xxlarge=90em"
+Lato, sans-serif
+"Font Awesome 5 Pro"
+"Font Awesome 5 Brands"
+-apple-system, BlinkMacSystemFont, �
+
+=== @font-face ===
+@font-face { font-family: gform-icons-theme; src: url("../../../fonts/gform-icons-theme.woff2?o6rzdt") format("woff2"), url("../../../fonts/gform-icons-theme.ttf?o6rzdt") format("truetype"), url("../../../fonts/gform-icons-theme.woff?o6rzdt") format("woff"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "Font Awesome 5 Brands"; font-style: normal; font-weight: 400; font-display: block; src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
+@font-face { font-family: "Font Awesome 5 Duotone"; font-style: normal; font-weight: 900; font-display: block; src: url("../webfonts/fa-duotone-900.woff2") format("woff2"), url("../webfonts/fa-duotone-900.woff") format("woff"), url("../webfonts/fa-duotone-900.ttf") format("truetype"); }
+@font-face { font-family: "Font Awesome 5 Pro"; font-style: normal; font-weight: 300; font-display: block; src: url("../webfonts/fa-light-300.woff2") format("woff2"), url("../webfonts/fa-light-300.woff") format("woff"), url("../webfonts/fa-light-300.ttf") format("truetype"); }
+@font-face { font-family: "Font Awesome 5 Pro"; font-style: normal; font-weight: 400; font-display: block; src: url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"), url("../webfonts/fa-regular-400.ttf") format("truetype"); }
+@font-face { font-family: "Font Awesome 5 Pro"; font-style: normal; font-weight: 900; font-display: block; src: url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"); }
+@font-face { font-display: block; font-family: vcpb-plugin-icons; font-style: normal; font-weight: 400; src: url("../fonts/vc_icons/fonts/vcpb-plugin-icons.ttf?30guqj") format("truetype"), url("../fonts/vc_icons/fonts/vcpb-plugin-icons.woff?30guqj") format("woff"); }
+@font-face { font-family: vc_grid_v1; font-style: normal; font-weight: 400; src: url("../fonts/vc_grid/vc_grid_v1.woff?-9hbgac") format("woff"), url("../fonts/vc_grid/vc_grid_v1.ttf?-9hbgac") format("truetype"); }
+@font-face { font-family: revicons; src: url("../fonts/revicons/revicons.woff?5510888") format("woff"), url("../fonts/revicons/revicons.ttf?5510888") format("truetype"); font-weight: normal; font-style: normal; font-display: swap; }

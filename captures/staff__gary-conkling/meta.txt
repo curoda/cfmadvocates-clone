@@ -1,0 +1,47 @@
+{
+  "title": "Gary Conkling - CFM Advocates",
+  "description": null,
+  "canonical": "https://cfmadvocates.com/staff/gary-conkling/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/staff/gary-conkling/",
+    "og:image": "https://cfmadvocates.com/wp-content/uploads/2022/04/Conkling_Web.jpg",
+    "og:image:secure_url": "https://cfmadvocates.com/wp-content/uploads/2022/04/Conkling_Web.jpg",
+    "og:image:width": "1024",
+    "og:image:height": "1535",
+    "og:locale": "en_US",
+    "og:title": "Gary Conkling",
+    "og:description": "Gary co-founded CFM in 1990 after a friendly spinout from Tektronix. He has been a federal and state lobbyist and now focuses on public affairs, including crisis communications. Gary began his career as a reporter and editor for daily newspapers before moving to DC to work as staff director for two Oregon congressmen. He returned to Oregon in 1982 to work for Tektronix as public affairs director. Gary grew up in a suburb of Denver and graduated with an English literature degree from Seattle Pacific University. He is an avid writer and enjoys traveling with his wife throughout Europe, especially",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:image": "https://cfmadvocates.com/wp-content/uploads/2022/04/Conkling_Web.jpg",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Gary Conkling",
+    "twitter:description": "Gary co-founded CFM in 1990 after a friendly spinout from Tektronix. He has been a federal and state lobbyist and now focuses on public affairs, including crisis communications. Gary began his career as a reporter and editor for daily newspapers before moving to DC to work as staff director for two Oregon congressmen. He returned to Oregon in 1982 to work for Tektronix as public affairs director. Gary grew up in a suburb of Denver and graduated with an English literature degree from Seattle Pacific University. He is an avid writer and enjoys traveling with his wife throughout Europe, especially"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"
+  ]
+}

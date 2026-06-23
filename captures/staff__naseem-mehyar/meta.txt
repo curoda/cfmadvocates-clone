@@ -1,0 +1,47 @@
+{
+  "title": "Naseem Mehyar - CFM Advocates",
+  "description": null,
+  "canonical": "https://cfmadvocates.com/staff/naseem-mehyar/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/staff/naseem-mehyar/",
+    "og:image": "https://cfmadvocates.com/wp-content/uploads/2025/10/Mehyar_Web.jpg",
+    "og:image:secure_url": "https://cfmadvocates.com/wp-content/uploads/2025/10/Mehyar_Web.jpg",
+    "og:image:width": "1024",
+    "og:image:height": "1535",
+    "og:locale": "en_US",
+    "og:title": "Naseem Mehyar",
+    "og:description": "Naseem helps clients navigate the federal landscape by identifying funding opportunities, shaping legislative strategies, and building relationships with key decision-makers in Congress and federal agencies. He brings nearly a decade of experience in federal transportation and public safety policy and has played a central role in securing more than $10 billion in federal investments for major infrastructure projects in Washington state and across the Pacific Northwest. Before joining CFM, Naseem served as legislative assistant and policy lead to U.S. Senator Maria Cantwell, where he played a key role in developing the Infrastructure Investment and Jobs Act and the FAA Reauthorization",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:image": "https://cfmadvocates.com/wp-content/uploads/2025/10/Mehyar_Web.jpg",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Naseem Mehyar",
+    "twitter:description": "Naseem helps clients navigate the federal landscape by identifying funding opportunities, shaping legislative strategies, and building relationships with key decision-makers in Congress and federal agencies. He brings nearly a decade of experience in federal transportation and public safety policy and has played a central role in securing more than $10 billion in federal investments for major infrastructure projects in Washington state and across the Pacific Northwest. Before joining CFM, Naseem served as legislative assistant and policy lead to U.S. Senator Maria Cantwell, where he played a key role in developing the Infrastructure Investment and Jobs Act and the FAA Reauthorization"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"
+  ]
+}

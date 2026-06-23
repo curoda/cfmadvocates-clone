@@ -1,0 +1,43 @@
+{
+  "title": "Public Affairs - CFM Advocates",
+  "description": null,
+  "canonical": "https://cfmadvocates.com/public-affairs/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/public-affairs/",
+    "og:locale": "en_US",
+    "og:title": "Public Affairs",
+    "og:description": "Our veteran Public Affairs Team has successfully tackled a range of challenges for Pacific Northwest corporate, nonprofit and public clients through effective issue management, media relations, media training, strategic communications, crisis planning and crisis response.[vc_column_inner width='1/2' css='.vc_custom_1649877434637{margin-bottom: 30px !important;}']We help you prepare for a crisis by conducting an issues audit and developing realistic crisis scenarios. When a crisis occurs, we come to your",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Public Affairs",
+    "twitter:description": "Our veteran Public Affairs Team has successfully tackled a range of challenges for Pacific Northwest corporate, nonprofit and public clients through effective issue management, media relations, media training, strategic communications, crisis planning and crisis response.[vc_column_inner width='1/2' css='.vc_custom_1649877434637{margin-bottom: 30px !important;}']We help you prepare for a crisis by conducting an issues audit and developing realistic crisis scenarios. When a crisis occurs, we come to your"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+  ]
+}

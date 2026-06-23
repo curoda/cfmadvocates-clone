@@ -1,0 +1,37 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	/news/	<  Back to Blog
+INTERNAL	https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcfmadvocates.com%2Fstaff%2Fkamron-brant%2F&t=Kamron+Brant	
+INTERNAL	https://x.com/intent/post?text=Kamron%20Brant&url=https%3A%2F%2Fcfmadvocates.com%2Fstaff%2Fkamron-brant%2F	
+INTERNAL	https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Kamron+Brant&url=https%3A%2F%2Fcfmadvocates.com%2Fstaff%2Fkamron-brant%2F	
+INTERNAL	/news/	<  Back to Blog
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	

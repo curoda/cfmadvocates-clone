@@ -1,0 +1,3 @@
+iframe	https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcF1AIgAAAAAFharBjQC2J4k7seyCLlssseFxU1&co=aHR0cHM6Ly9jZm1hZHZvY2F0ZXMuY29tOjQ0Mw..&hl=en&v=MerVUtRoajKEbP7pLiGXkL28&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=xlwpvfkk909i
+iframe	
+iframe	https://www.google.com/recaptcha/api2/bframe?hl=en&v=MerVUtRoajKEbP7pLiGXkL28&k=6LcF1AIgAAAAAFharBjQC2J4k7seyCLlssseFxU1&bft=0dAFcWeA4At2Yo49urzz3OxIJAyvV8tymA2hABSO7EWkmMaO1ctNgt1uB7mKaf0U51HNjKzGIbgVzQG4UIf3jYDqOhkbA-oB3UOg

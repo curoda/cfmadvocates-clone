@@ -1,0 +1,47 @@
+{
+  "title": "Preventing a Tax on Broadcaster FCC Licenses - CFM Advocates",
+  "description": "Developing a consensus legislative fix for broadcasters to avoid state taxation of intangible assets like FCC licenses.",
+  "canonical": "https://cfmadvocates.com/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/",
+    "og:image": "https://cfmadvocates.com/wp-content/uploads/2024/11/KOIN-Tower.jpg",
+    "og:image:secure_url": "https://cfmadvocates.com/wp-content/uploads/2024/11/KOIN-Tower.jpg",
+    "og:image:width": "8688",
+    "og:image:height": "5792",
+    "og:locale": "en_US",
+    "og:title": "Preventing a Tax on Broadcaster FCC Licenses",
+    "og:description": "Developing a consensus legislative fix for broadcasters to avoid state taxation of intangible assets like FCC licenses.",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:image": "https://cfmadvocates.com/wp-content/uploads/2024/11/KOIN-Tower.jpg",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Preventing a Tax on Broadcaster FCC Licenses",
+    "twitter:description": "Developing a consensus legislative fix for broadcasters to avoid state taxation of intangible assets like FCC licenses."
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"
+  ]
+}

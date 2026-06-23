@@ -1,0 +1,43 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	/news/	<  Back to Blog
+INTERNAL	https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcfmadvocates.com%2Fformer-dot-special-assistant-joins-team-cfm%2F&t=Former+DOT+Special+Assistant+Joins+Team+CFM	
+INTERNAL	https://x.com/intent/post?text=Former%20DOT%20Special%20Assistant%20Joins%20Team%20CFM&url=https%3A%2F%2Fcfmadvocates.com%2Fformer-dot-special-assistant-joins-team-cfm%2F	
+INTERNAL	https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Former+DOT+Special+Assistant+Joins+Team+CFM&url=https%3A%2F%2Fcfmadvocates.com%2Fformer-dot-special-assistant-joins-team-cfm%2F	
+INTERNAL	/news/	<  Back to Blog
+INTERNAL	https://cfmadvocates.com/amanda-delapena-joins-cfm/	
+INTERNAL	https://cfmadvocates.com/amanda-delapena-joins-cfm/	Read More
+INTERNAL	https://cfmadvocates.com/madelynn-sakay-joins-cfms-federal-affairs-team-to-help-advance-client-priorities/	
+INTERNAL	https://cfmadvocates.com/madelynn-sakay-joins-cfms-federal-affairs-team-to-help-advance-client-priorities/	Read More
+INTERNAL	https://cfmadvocates.com/former-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs/	
+INTERNAL	https://cfmadvocates.com/former-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	

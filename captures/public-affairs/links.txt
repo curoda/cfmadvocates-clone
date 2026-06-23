@@ -1,0 +1,53 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/case-studies/	all our success stories
+INTERNAL	https://cfmadvocates.com/case_studies/erickson-inc/	
+INTERNAL	https://cfmadvocates.com/case_studies/erickson-inc/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	
+INTERNAL	https://cfmadvocates.com/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/making-the-case-for-transit-funding-statewide/	
+INTERNAL	https://cfmadvocates.com/case_studies/making-the-case-for-transit-funding-statewide/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/highlighting-challenges-facing-older-adults/	
+INTERNAL	https://cfmadvocates.com/case_studies/highlighting-challenges-facing-older-adults/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/sharing-communication-tips-with-city-lobbyists/	
+INTERNAL	https://cfmadvocates.com/case_studies/sharing-communication-tips-with-city-lobbyists/	Read More
+INTERNAL	https://cfmadvocates.com/case_studies/marketing-a-pioneering-public-retirement-savings-plan/	
+INTERNAL	https://cfmadvocates.com/case_studies/marketing-a-pioneering-public-retirement-savings-plan/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	
+EXTERNAL	https://www.linkedin.com/in/garyconkling/	
+EXTERNAL	mailto:garyc@cfmpdx.com	
+EXTERNAL	https://www.linkedin.com/in/normaneder/	
+EXTERNAL	mailto:norme@CFMPDX.com	
+EXTERNAL	https://www.linkedin.com/in/david-hodges-7552243/	
+EXTERNAL	mailto:davidh@CFMPDX.com	
+EXTERNAL	mailto:pages@cfmpdx.com	
+EXTERNAL	mailto:katiew@cfmpnw.com	

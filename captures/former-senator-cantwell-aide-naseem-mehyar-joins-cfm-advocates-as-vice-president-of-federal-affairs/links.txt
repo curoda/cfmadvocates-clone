@@ -1,0 +1,43 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	/news/	<  Back to Blog
+INTERNAL	https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcfmadvocates.com%2Fformer-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs%2F&t=Former+Senator+Cantwell+Aide%2C+Naseem+Mehyar%2C+Joins+CFM+Advocates+as+Vice+President+of+Federal+Affairs	
+INTERNAL	https://x.com/intent/post?text=Former%20Senator%20Cantwell%20Aide%2C%20Naseem%20Mehyar%2C%20Joins%20CFM%20Advocates%20as%20Vice%20President%20of%20Federal%20Affairs&url=https%3A%2F%2Fcfmadvocates.com%2Fformer-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs%2F	
+INTERNAL	https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Former+Senator+Cantwell+Aide%2C+Naseem+Mehyar%2C+Joins+CFM+Advocates+as+Vice+President+of+Federal+Affairs&url=https%3A%2F%2Fcfmadvocates.com%2Fformer-senator-cantwell-aide-naseem-mehyar-joins-cfm-advocates-as-vice-president-of-federal-affairs%2F	
+INTERNAL	/news/	<  Back to Blog
+INTERNAL	https://cfmadvocates.com/amanda-delapena-joins-cfm/	
+INTERNAL	https://cfmadvocates.com/amanda-delapena-joins-cfm/	Read More
+INTERNAL	https://cfmadvocates.com/madelynn-sakay-joins-cfms-federal-affairs-team-to-help-advance-client-priorities/	
+INTERNAL	https://cfmadvocates.com/madelynn-sakay-joins-cfms-federal-affairs-team-to-help-advance-client-priorities/	Read More
+INTERNAL	https://cfmadvocates.com/former-dot-special-assistant-joins-team-cfm/	
+INTERNAL	https://cfmadvocates.com/former-dot-special-assistant-joins-team-cfm/	Read More
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	

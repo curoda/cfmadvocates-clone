@@ -1,0 +1,47 @@
+{
+  "title": "Get In Touch - CFM Advocates",
+  "description": null,
+  "canonical": "https://cfmadvocates.com/get-in-touch/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "viewport": "height=device-height,width=device-width,initial-scale=1",
+  "og": {
+    "og:type": "article",
+    "og:url": "https://cfmadvocates.com/get-in-touch/",
+    "og:locale": "en_US",
+    "og:title": "Get In Touch",
+    "og:description": "We have offices on both coasts to serve you. Reach out directly but phone or use the form below to make contact. OREGON & WASHINGTON - 503-294-9120    D.C. - 202-347-9170[vc_column width='1/4'][vc_column width='3/4']Most of our team members have worked in government, so we understand how the process works and who to contact to get results. We work with both sides of the political aisle and don’t run political campaigns.[vc_btn title='CFM TEAM' style='custom' custom_background='#ffffff' custom_text='#bf1e2e'",
+    "og:site_name": "CFM Advocates"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Get In Touch",
+    "twitter:description": "We have offices on both coasts to serve you. Reach out directly but phone or use the form below to make contact. OREGON & WASHINGTON - 503-294-9120    D.C. - 202-347-9170[vc_column width='1/4'][vc_column width='3/4']Most of our team members have worked in government, so we understand how the process works and who to contact to get results. We work with both sides of the political aisle and don’t run political campaigns.[vc_btn title='CFM TEAM' style='custom' custom_background='#ffffff' custom_text='#bf1e2e'"
+  },
+  "scripts": [
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-229652972-1&l=beehiveDataLayer&cx=c&gtm=4e66h0",
+    "https://www.gstatic.com/recaptcha/releases/MerVUtRoajKEbP7pLiGXkL28/recaptcha__en.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery.min.js",
+    "https://cfmadvocates.com/wp-includes/js/jquery/jquery-migrate.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js",
+    "https://www.google.com/recaptcha/api.js?hl=en#038;render=explicit",
+    "https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer",
+    "https://cfmadvocates.com/wp-includes/js/dist/dom-ready.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/hooks.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/i18n.min.js",
+    "https://cfmadvocates.com/wp-includes/js/dist/a11y.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+    "https://cfmadvocates.com/wp-content/themes/stellartheme/resources/web/scripts-min/app.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js",
+    "https://cfmadvocates.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+  ]
+}

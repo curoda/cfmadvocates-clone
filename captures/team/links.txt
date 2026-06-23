@@ -1,0 +1,69 @@
+INTERNAL	#content	Skip to Main Content
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/get-in-touch/	Get In Touch
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+INTERNAL	https://cfmadvocates.com	
+INTERNAL	https://cfmadvocates.com/about/	About
+INTERNAL	https://cfmadvocates.com/team/	The CFM Team
+INTERNAL	https://cfmadvocates.com/30-years-and-counting/	30 Years and Counting
+INTERNAL	https://cfmadvocates.com/news/	CFM Insider
+INTERNAL	https://cfmadvocates.com/state-affairs/	State Affairs
+INTERNAL	https://cfmadvocates.com/federal-affairs/	Federal Affairs
+INTERNAL	https://cfmadvocates.com/public-affairs/	Public Affairs
+INTERNAL	https://cfmadvocates.com/case-studies/	Case Studies
+EXTERNAL	https://www.linkedin.com/company/cfmadvocates/	
+EXTERNAL	https://stellaractive.com	Stellaractive
+INTERNAL	#	
+INTERNAL	#	
+EXTERNAL	https://www.linkedin.com/in/rubinjoel/	
+EXTERNAL	mailto:joelr@cfmdc.com	
+EXTERNAL	https://www.linkedin.com/in/kirby-j-garrett-41a72537/	
+EXTERNAL	mailto:kirbyg@CFMDC.com	
+EXTERNAL	https://www.linkedin.com/in/david-hodges-7552243/	
+EXTERNAL	mailto:davidh@CFMPDX.com	
+EXTERNAL	mailto:pages@cfmpdx.com	
+EXTERNAL	https://www.linkedin.com/in/michaelfskipper/	
+EXTERNAL	mailto:michaels@CFMDC.com	
+EXTERNAL	mailto:kamronb@cfmdc.com	
+EXTERNAL	mailto:katiew@cfmpnw.com	
+EXTERNAL	mailto:tarak@cfmdc.com	
+EXTERNAL	mailto:katet@cfmdc.com	
+EXTERNAL	https://www.linkedin.com/in/naseem-meh/	
+EXTERNAL	mailto:naseemm@cfmdc.com	
+EXTERNAL	mailto:madelynns@cfmdc.com	
+EXTERNAL	https://www.linkedin.com/in/dalepenn2/	
+EXTERNAL	mailto:dalep@cfmpdx.com	
+EXTERNAL	https://www.linkedin.com/in/zack-reeves-7255764/	
+EXTERNAL	mailto:zackr@CFMPDX.com	
+EXTERNAL	https://www.linkedin.com/in/waylonbuchan/	
+EXTERNAL	mailto:waylonb@CFMPDX.com	
+EXTERNAL	https://www.linkedin.com/in/ryann-gleason-23a62413a/	
+EXTERNAL	mailto:ryanng@CFMPDX.com	
+EXTERNAL	mailto:jessicaa@cfmpdx.com	
+EXTERNAL	mailto:katiew@cfmpnw.com	
+EXTERNAL	https://www.linkedin.com/in/garyconkling/	
+EXTERNAL	mailto:garyc@cfmpdx.com	
+EXTERNAL	https://www.linkedin.com/in/normaneder/	
+EXTERNAL	mailto:norme@CFMPDX.com	
+EXTERNAL	https://www.linkedin.com/in/david-hodges-7552243/	
+EXTERNAL	mailto:davidh@CFMPDX.com	
+EXTERNAL	mailto:pages@cfmpdx.com	
+EXTERNAL	mailto:katiew@cfmpnw.com	
+EXTERNAL	https://www.linkedin.com/in/elena-molau-56217b3/	
+EXTERNAL	mailto:ElenaM@cfmpdx.com	
+EXTERNAL	mailto:amandad@cfmpdx.com	
