@@ -6,40 +6,40 @@
 var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
 </script>
 
-        <meta http-equiv="Content-Type" content="/case_studies/securing-clean-water-for-coastal-oregon/text/html/" />
-        <meta http-equiv="X-UA-Compatible" content="/case_studies/securing-clean-water-for-coastal-oregon/IE=edge,chrome=1/"/>
-        <meta name="viewport" content="/case_studies/securing-clean-water-for-coastal-oregon/height=device-height,width=device-width,initial-scale=1/">
+        <meta http-equiv="Content-Type" content="/case_studies/securing-federal-funding-for-rural-fire-department/text/html/" />
+        <meta http-equiv="X-UA-Compatible" content="/case_studies/securing-federal-funding-for-rural-fire-department/IE=edge,chrome=1/"/>
+        <meta name="viewport" content="/case_studies/securing-federal-funding-for-rural-fire-department/height=device-height,width=device-width,initial-scale=1/">
         <link rel="pingback" href="/xmlrpc.php" />
 
 
                                     <title>
-                                            Securing Clean Water for a Coastal Oregon Community - CFM Advocates
+                                            Securing Federal Funding for a Rural Fire Department - CFM Advocates
                                     </title>
-                                                                                                                        <meta property="og:type" content="/case_studies/securing-clean-water-for-coastal-oregon/website/" />
-            <meta property="og:url" content="/case_studies/securing-clean-water-for-coastal-oregon/" />
-                                                                                                                                                <meta name='robots' content='/case_studies/securing-clean-water-for-coastal-oregon/index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1/' />
+                                                                                                                        <meta property="og:type" content="/case_studies/securing-federal-funding-for-rural-fire-department/website/" />
+            <meta property="og:url" content="/case_studies/securing-federal-funding-for-rural-fire-department/" />
+                                                                                                                                                <meta name='robots' content='/case_studies/securing-federal-funding-for-rural-fire-department/index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1/' />
 
 <!-- Easy Social Share Buttons for WordPress v.11.4 https://socialsharingplugin.com -->
-<meta property="og:image" content="/wp-content/uploads/2024/11/oregon-coast-november.jpg" />
-<meta property="og:image:secure_url" content="/wp-content/uploads/2024/11/oregon-coast-november.jpg" />
-<meta property="og:image:width" content="/case_studies/securing-clean-water-for-coastal-oregon/1600/" />
-<meta property="og:image:height" content="/case_studies/securing-clean-water-for-coastal-oregon/1029/" />
+<meta property="og:image" content="/wp-content/uploads/2025/06/rural-fire-department.jpg" />
+<meta property="og:image:secure_url" content="/wp-content/uploads/2025/06/rural-fire-department.jpg" />
+<meta property="og:image:width" content="/case_studies/securing-federal-funding-for-rural-fire-department/1600/" />
+<meta property="og:image:height" content="/case_studies/securing-federal-funding-for-rural-fire-department/1029/" />
 <!-- / Easy Social Share Buttons for WordPress -->
-<meta name="twitter:image" content="/wp-content/uploads/2024/11/oregon-coast-november.jpg" />
+<meta name="twitter:image" content="/wp-content/uploads/2025/06/rural-fire-department.jpg" />
 
 	<!-- This site is optimized with the Yoast SEO plugin v27.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<meta name="description" content="/case_studies/securing-clean-water-for-coastal-oregon/Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing." />
-	<link rel="canonical" href="/case_studies/securing-clean-water-for-coastal-oregon/" />
-	<meta property="og:locale" content="/case_studies/securing-clean-water-for-coastal-oregon/en_US/" />
-	<meta property="og:type" content="/case_studies/securing-clean-water-for-coastal-oregon/article/" />
-	<meta property="og:title" content="/case_studies/securing-clean-water-for-coastal-oregon/Securing Clean Water for a Coastal Oregon Community/" />
-	<meta property="og:description" content="/case_studies/securing-clean-water-for-coastal-oregon/Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing." />
-	<meta property="og:url" content="/case_studies/securing-clean-water-for-coastal-oregon/" />
-	<meta property="og:site_name" content="/case_studies/securing-clean-water-for-coastal-oregon/CFM Advocates/" />
-	<meta name="twitter:card" content="/case_studies/securing-clean-water-for-coastal-oregon/summary_large_image/" />
-	<meta name="twitter:title" content="/case_studies/securing-clean-water-for-coastal-oregon/Securing Clean Water for a Coastal Oregon Community/" />
-	<meta name="twitter:description" content="/case_studies/securing-clean-water-for-coastal-oregon/Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing." />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/","url":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/","name":"Securing Clean Water for a Coastal Oregon Community","isPartOf":{"@id":"https:\/\/cfmadvocates.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/#primaryimage"},"image":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/#primaryimage"},"thumbnailUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/WWSP_WTP_NeighMtg_PlanSet_reduced-9-crop.jpg","datePublished":"2024-11-03T01:07:48+00:00","description":"Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing.","breadcrumb":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/#primaryimage","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/WWSP_WTP_NeighMtg_PlanSet_reduced-9-crop.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/WWSP_WTP_NeighMtg_PlanSet_reduced-9-crop.jpg","width":1600,"height":1029},{"@type":"BreadcrumbList","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-clean-water-for-coastal-oregon\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/cfmadvocates.com\/"},{"@type":"ListItem","position":2,"name":"Case Studies","item":"https:\/\/cfmadvocates.com\/case-studies\/"},{"@type":"ListItem","position":3,"name":"Securing Clean Water for a Coastal Oregon Community"}]},{"@type":"WebSite","@id":"https:\/\/cfmadvocates.com\/#website","url":"https:\/\/cfmadvocates.com\/","name":"CFM Advocates","description":"Federal and State Lobbying and Public Affairs Firm","publisher":{"@id":"https:\/\/cfmadvocates.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/cfmadvocates.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/cfmadvocates.com\/#organization","name":"CFM Advocates","url":"https:\/\/cfmadvocates.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","width":600,"height":600,"caption":"CFM Advocates"},"image":{"@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/"}}]}</script>
+	<meta name="description" content="/case_studies/securing-federal-funding-for-rural-fire-department/Helping a rural volunteer fire department reframe its case around regional response gaps to secure roughly $850,000 in federal FEMA funding to replace decades-old equipment." />
+	<link rel="canonical" href="/case_studies/securing-federal-funding-for-rural-fire-department/" />
+	<meta property="og:locale" content="/case_studies/securing-federal-funding-for-rural-fire-department/en_US/" />
+	<meta property="og:type" content="/case_studies/securing-federal-funding-for-rural-fire-department/article/" />
+	<meta property="og:title" content="/case_studies/securing-federal-funding-for-rural-fire-department/Securing Federal Funding for a Rural Fire Department/" />
+	<meta property="og:description" content="/case_studies/securing-federal-funding-for-rural-fire-department/Helping a rural volunteer fire department reframe its case around regional response gaps to secure roughly $850,000 in federal FEMA funding to replace decades-old equipment." />
+	<meta property="og:url" content="/case_studies/securing-federal-funding-for-rural-fire-department/" />
+	<meta property="og:site_name" content="/case_studies/securing-federal-funding-for-rural-fire-department/CFM Advocates/" />
+	<meta name="twitter:card" content="/case_studies/securing-federal-funding-for-rural-fire-department/summary_large_image/" />
+	<meta name="twitter:title" content="/case_studies/securing-federal-funding-for-rural-fire-department/Securing Federal Funding for a Rural Fire Department/" />
+	<meta name="twitter:description" content="/case_studies/securing-federal-funding-for-rural-fire-department/Helping a rural volunteer fire department reframe its case around regional response gaps to secure roughly $850,000 in federal FEMA funding to replace decades-old equipment." />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/","url":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/","name":"Securing Federal Funding for a Rural Fire Department","isPartOf":{"@id":"https:\/\/cfmadvocates.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/#primaryimage"},"image":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/#primaryimage"},"thumbnailUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-fire-department.jpg","datePublished":"2024-11-03T01:07:48+00:00","description":"Helping a rural volunteer fire department reframe its case around regional response gaps to secure roughly $850,000 in federal FEMA funding to replace decades-old equipment.","breadcrumb":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/#primaryimage","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-fire-department.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-fire-department.jpg","width":1600,"height":1029},{"@type":"BreadcrumbList","@id":"https:\/\/cfmadvocates.com\/case_studies\/securing-federal-funding-for-rural-fire-department\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/cfmadvocates.com\/"},{"@type":"ListItem","position":2,"name":"Case Studies","item":"https:\/\/cfmadvocates.com\/case-studies\/"},{"@type":"ListItem","position":3,"name":"Securing Federal Funding for a Rural Fire Department"}]},{"@type":"WebSite","@id":"https:\/\/cfmadvocates.com\/#website","url":"https:\/\/cfmadvocates.com\/","name":"CFM Advocates","description":"Federal and State Lobbying and Public Affairs Firm","publisher":{"@id":"https:\/\/cfmadvocates.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/cfmadvocates.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/cfmadvocates.com\/#organization","name":"CFM Advocates","url":"https:\/\/cfmadvocates.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","width":600,"height":600,"caption":"CFM Advocates"},"image":{"@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -108,8 +108,8 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 				'allow_google_signals': false,
 			})
 					</script>
-		<meta name="generator" content="/case_studies/securing-clean-water-for-coastal-oregon/Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<meta name="generator" content="/case_studies/securing-clean-water-for-coastal-oregon/Powered by Slider Revolution 6.7.54 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<meta name="generator" content="/case_studies/securing-federal-funding-for-rural-fire-department/Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="/case_studies/securing-federal-funding-for-rural-fire-department/Powered by Slider Revolution 6.7.54 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <link rel="icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-150x150.png" sizes="32x32" />
 <link rel="icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-300x300.png" />
@@ -182,7 +182,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
     
                 
-    <meta name="google-site-verification" content="/case_studies/securing-clean-water-for-coastal-oregon/ZMb43xd78Qbq0dxo6Kw_975I_uF1puOMVojD9mdo47E/" />
+    <meta name="google-site-verification" content="/case_studies/securing-federal-funding-for-rural-fire-department/ZMb43xd78Qbq0dxo6Kw_975I_uF1puOMVojD9mdo47E/" />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='/wp-content/plugins/revslider/sr6/assets/css/rs6.css' media='all' />
 <style id="rs-plugin-settings-inline-css">
 #rs-demo-id {}
@@ -336,7 +336,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                   <div class="page-header">
       <div class="header-container">
         <div class="grid-container">
-          <h1>Securing Clean Water for a Coastal Oregon Community</h1>
+          <h1>Securing Federal Funding for a Rural Fire Department</h1>
         </div>
       </div>
   </div>
@@ -345,7 +345,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
           <div class="cell">
               <article class="single">
                 <div class="c-study-feat">
-                  <img src=/wp-content/uploads/2024/11/oregon-coast-november-600x0-c-default.jpg>
+                  <img src=/wp-content/uploads/2025/06/rural-fire-department-600x0-c-default.jpg>
                 </div>
 
                <div class="c-study-cards">
@@ -355,7 +355,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                       <h2>Challenge</h2>
                     </div>
                     <div class="card-body">
-                      A small coastal Oregon town depended on a single drinking water treatment plant that was aging, increasingly unreliable, and at growing risk of contamination. Without a functioning facility, the community faced a serious public health threat with no local remedy in sight. The town's small tax base made competing for major federal infrastructure grants nearly impossible—the funding programs that could solve the problem were designed for larger applicants with dedicated grants staff, and the town simply lacked the resources to navigate them alone.
+                      A rural inland community's volunteer fire department was operating apparatus that was roughly 40 years old—increasingly unsafe and costly to keep in service. The department had applied twice for state equipment grants and been turned down both times, in each case because its call volume was too low to score competitively against larger, busier departments. With a small budget and no dedicated grant staff, the department had run out of obvious ways to replace the aging equipment its crews and neighbors depended on.
                     </div>
                   </div>
                   <div class="c-study-card c-study-approach">
@@ -364,7 +364,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                       <h2>Approach</h2>
                     </div>
                     <div class="card-body">
-                      CFM partnered with the town and worked closely with Oregon's congressional delegation to reframe the project as the public health priority it was. CFM identified the right federal funding vehicles—programs at EPA and USDA focused on rural drinking water infrastructure—and helped the client build a compelling case that matched the project's urgency to each program's stated priorities. CFM coordinated direct outreach to both agencies, ensuring decision-makers heard clearly why this community deserved priority consideration and how the project met the programs' public health and rural service criteria.
+                      CFM worked closely with the department and the county to rethink how the need was presented. Rather than competing on call volume alone—a measure that would always favor larger departments—CFM helped reframe the request around the regional mutual aid response gaps the department was positioned to close. CFM identified a FEMA Assistance to Firefighters Grant cycle whose criteria better matched the department's profile and helped build a stronger application, bringing in local hospital and emergency management partners to document the real coverage stakes for the surrounding area.
                     </div>
                   </div>
                   <div class="c-study-card c-study-success">
@@ -373,7 +373,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                       <h2>Success</h2>
                     </div>
                     <div class="card-body">
-                      The effort secured approximately $12 million in federal funding through a combination of EPA and USDA resources—enough to fully replace the failing treatment plant and restore reliable, safe drinking water for the community. The project demonstrated that with the right advocacy strategy, small towns can successfully compete for federal infrastructure dollars that would otherwise flow to larger, better-resourced applicants. For this coastal Oregon community, the result was straightforward: clean water, secured.
+                      The effort secured roughly $850,000 in federal funding to replace the department's aging apparatus and add basic life support equipment. The new resources closed a long-standing coverage gap for three surrounding townships and gave the department modern, reliable tools its volunteers can count on. Just as important, reframing the case around regional response needs—rather than raw call volume—turned a project that had failed twice into a fundable federal priority.
                     </div>
                   </div>
                </div>
@@ -386,11 +386,11 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
   "@type": "NewsArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://cfmadvocates.com/case_studies/securing-clean-water-for-coastal-oregon/"
+    "@id": "https://cfmadvocates.com/case_studies/securing-federal-funding-for-rural-fire-department/"
   },
-  "headline": "Securing Clean Water for a Coastal Oregon Community",
+  "headline": "Securing Federal Funding for a Rural Fire Department",
   "image": [
-    "https://cfmadvocates.com/wp-content/uploads/2024/11/oregon-coast-november.jpg"
+    "https://cfmadvocates.com/wp-content/uploads/2025/06/rural-fire-department.jpg"
    ],
   "datePublished": "2024-11-02T18:07:48-07:00",
   "dateModified": "2024-11-02T18:07:48-07:00",
@@ -406,7 +406,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
       "url": "https://cfmadvocates.com/wp-content/uploads/2024/11/CFM-logo-new.png"
     }
   },
-  "description": "Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing."
+  "description": "Helping a rural volunteer fire department reframe its case around regional response gaps to secure roughly $850,000 in federal FEMA funding to replace decades-old equipment."
 }
 </script>
               </article>
@@ -479,7 +479,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                 <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' >
                         <div class='gform_heading'>
                             <p class='gform_description'></p>
-                        </div><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/case_studies/securing-clean-water-for-coastal-oregon/' data-formid='1' novalidate>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/case_studies/securing-federal-funding-for-rural-fire-department/' data-formid='1' novalidate>
                         <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_1_3" class="gfield gfield--type-name gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_1_3'>
                             
                             <span id='input_1_3_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
