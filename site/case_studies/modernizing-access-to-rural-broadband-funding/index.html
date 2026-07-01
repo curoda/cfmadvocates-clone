@@ -6,37 +6,46 @@
 var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
 </script>
 
-        <meta http-equiv="Content-Type" content="/case-studies/text/html/" />
-        <meta http-equiv="X-UA-Compatible" content="/case-studies/IE=edge,chrome=1/"/>
-        <meta name="viewport" content="/case-studies/height=device-height,width=device-width,initial-scale=1/">
+        <meta http-equiv="Content-Type" content="/case_studies/modernizing-access-to-rural-broadband-funding/text/html/" />
+        <meta http-equiv="X-UA-Compatible" content="/case_studies/modernizing-access-to-rural-broadband-funding/IE=edge,chrome=1/"/>
+        <meta name="viewport" content="/case_studies/modernizing-access-to-rural-broadband-funding/height=device-height,width=device-width,initial-scale=1/">
         <link rel="pingback" href="/xmlrpc.php" />
 
 
                                     <title>
-                                            Case Studies Archive - CFM Advocates - CFM Advocates
+                                            Modernizing Access to Rural Broadband Funding - CFM Advocates
                                     </title>
-                                                                                                                        <meta property="og:type" content="/case-studies/website/" />
-            <meta property="og:url" content="/case-studies/" />
-                                                                                                                                                <meta name='robots' content='/case-studies/index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1/' />
+                                                                                                                        <meta property="og:type" content="/case_studies/modernizing-access-to-rural-broadband-funding/website/" />
+            <meta property="og:url" content="/case_studies/modernizing-access-to-rural-broadband-funding/" />
+                                                                                                                                                <meta name='robots' content='/case_studies/modernizing-access-to-rural-broadband-funding/index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1/' />
+
+<!-- Easy Social Share Buttons for WordPress v.11.4 https://socialsharingplugin.com -->
+<meta property="og:image" content="/wp-content/uploads/2025/06/rural-oregon-broadband.jpg" />
+<meta property="og:image:secure_url" content="/wp-content/uploads/2025/06/rural-oregon-broadband.jpg" />
+<meta property="og:image:width" content="/case_studies/modernizing-access-to-rural-broadband-funding/1600/" />
+<meta property="og:image:height" content="/case_studies/modernizing-access-to-rural-broadband-funding/1059/" />
+<!-- / Easy Social Share Buttons for WordPress -->
+<meta name="twitter:image" content="/wp-content/uploads/2025/06/rural-oregon-broadband.jpg" />
 
 	<!-- This site is optimized with the Yoast SEO plugin v27.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<link rel="canonical" href="/case-studies/" />
-	<link rel="next" href="/case-studies/page/2/" />
-	<meta property="og:locale" content="/case-studies/en_US/" />
-	<meta property="og:type" content="/case-studies/website/" />
-	<meta property="og:title" content="/case-studies/Case Studies/" />
-	<meta property="og:url" content="/case-studies/" />
-	<meta property="og:site_name" content="/case-studies/CFM Advocates/" />
-	<meta name="twitter:card" content="/case-studies/summary_large_image/" />
-	<meta name="twitter:title" content="/case-studies/Case Studies/" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/cfmadvocates.com\/case-studies\/","url":"https:\/\/cfmadvocates.com\/case-studies\/","name":"Case Studies Archive - CFM Advocates","isPartOf":{"@id":"https:\/\/cfmadvocates.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/cfmadvocates.com\/case-studies\/#primaryimage"},"image":{"@id":"https:\/\/cfmadvocates.com\/case-studies\/#primaryimage"},"thumbnailUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/Oregon-CASA.jpeg","breadcrumb":{"@id":"https:\/\/cfmadvocates.com\/case-studies\/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/case-studies\/#primaryimage","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/Oregon-CASA.jpeg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2024\/11\/Oregon-CASA.jpeg","width":339,"height":149},{"@type":"BreadcrumbList","@id":"https:\/\/cfmadvocates.com\/case-studies\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/cfmadvocates.com\/"},{"@type":"ListItem","position":2,"name":"Case Studies"}]},{"@type":"WebSite","@id":"https:\/\/cfmadvocates.com\/#website","url":"https:\/\/cfmadvocates.com\/","name":"CFM Advocates","description":"Federal and State Lobbying and Public Affairs Firm","publisher":{"@id":"https:\/\/cfmadvocates.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/cfmadvocates.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/cfmadvocates.com\/#organization","name":"CFM Advocates","url":"https:\/\/cfmadvocates.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","width":600,"height":600,"caption":"CFM Advocates"},"image":{"@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/"}}]}</script>
+	<meta name="description" content="/case_studies/modernizing-access-to-rural-broadband-funding/Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines." />
+	<link rel="canonical" href="/case_studies/modernizing-access-to-rural-broadband-funding/" />
+	<meta property="og:locale" content="/case_studies/modernizing-access-to-rural-broadband-funding/en_US/" />
+	<meta property="og:type" content="/case_studies/modernizing-access-to-rural-broadband-funding/article/" />
+	<meta property="og:title" content="/case_studies/modernizing-access-to-rural-broadband-funding/Modernizing Access to Rural Broadband Funding/" />
+	<meta property="og:description" content="/case_studies/modernizing-access-to-rural-broadband-funding/Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines." />
+	<meta property="og:url" content="/case_studies/modernizing-access-to-rural-broadband-funding/" />
+	<meta property="og:site_name" content="/case_studies/modernizing-access-to-rural-broadband-funding/CFM Advocates/" />
+	<meta name="twitter:card" content="/case_studies/modernizing-access-to-rural-broadband-funding/summary_large_image/" />
+	<meta name="twitter:title" content="/case_studies/modernizing-access-to-rural-broadband-funding/Modernizing Access to Rural Broadband Funding/" />
+	<meta name="twitter:description" content="/case_studies/modernizing-access-to-rural-broadband-funding/Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines." />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/","url":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/","name":"Modernizing Access to Rural Broadband Funding","isPartOf":{"@id":"https:\/\/cfmadvocates.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/#primaryimage"},"image":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/#primaryimage"},"thumbnailUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-oregon-broadband.jpg","datePublished":"2024-11-03T01:07:48+00:00","description":"Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines.","breadcrumb":{"@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/#primaryimage","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-oregon-broadband.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2025\/06\/rural-oregon-broadband.jpg","width":1600,"height":1059},{"@type":"BreadcrumbList","@id":"https:\/\/cfmadvocates.com\/case_studies\/modernizing-access-to-rural-broadband-funding\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/cfmadvocates.com\/"},{"@type":"ListItem","position":2,"name":"Case Studies","item":"https:\/\/cfmadvocates.com\/case-studies\/"},{"@type":"ListItem","position":3,"name":"Modernizing Access to Rural Broadband Funding"}]},{"@type":"WebSite","@id":"https:\/\/cfmadvocates.com\/#website","url":"https:\/\/cfmadvocates.com\/","name":"CFM Advocates","description":"Federal and State Lobbying and Public Affairs Firm","publisher":{"@id":"https:\/\/cfmadvocates.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/cfmadvocates.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/cfmadvocates.com\/#organization","name":"CFM Advocates","url":"https:\/\/cfmadvocates.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/","url":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","contentUrl":"https:\/\/cfmadvocates.com\/wp-content\/uploads\/2022\/06\/CFM-LOGO-BOX.jpg","width":600,"height":600,"caption":"CFM Advocates"},"image":{"@id":"https:\/\/cfmadvocates.com\/#\/schema\/logo\/image\/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='/_ext/627a31c226d29760.bin' />
 <link rel="alternate" type="application/rss+xml" title="CFM Advocates &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="CFM Advocates &raquo; Comments Feed" href="/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="CFM Advocates &raquo; Case Studies Feed" href="/case-studies/feed/" />
 <style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -85,7 +94,8 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 </script>
 <script id="gform_gravityforms-js" defer='defer' src="/wp-content/plugins/gravityforms/js/gravityforms.min.js"></script>
 <script id="gform_gravityforms_utils-js" defer='defer' src="/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js"></script>
-<script></script><link rel="https://api.w.org/" href="/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<script></script><script id="essb-inline-js"></script><link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/case_studies/21433/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel='shortlink' href='/?p=21433' />
 <!-- Stream WordPress user activity plugin v4.2.0 -->
 		<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
 				<script async src="https://www.googletagmanager.com/gtag/js?id=G-5DYDP5V9E6&l=beehiveDataLayer"></script>
@@ -98,8 +108,8 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 				'allow_google_signals': false,
 			})
 					</script>
-		<meta name="generator" content="/case-studies/Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<meta name="generator" content="/case-studies/Powered by Slider Revolution 6.7.54 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<meta name="generator" content="/case_studies/modernizing-access-to-rural-broadband-funding/Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="/case_studies/modernizing-access-to-rural-broadband-funding/Powered by Slider Revolution 6.7.54 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <link rel="icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-150x150.png" sizes="32x32" />
 <link rel="icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="/wp-content/uploads/2022/05/cropped-favicon-cfm-300x300.png" />
@@ -172,7 +182,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
     
                 
-    <meta name="google-site-verification" content="/case-studies/ZMb43xd78Qbq0dxo6Kw_975I_uF1puOMVojD9mdo47E/" />
+    <meta name="google-site-verification" content="/case_studies/modernizing-access-to-rural-broadband-funding/ZMb43xd78Qbq0dxo6Kw_975I_uF1puOMVojD9mdo47E/" />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='/wp-content/plugins/revslider/sr6/assets/css/rs6.css' media='all' />
 <style id="rs-plugin-settings-inline-css">
 #rs-demo-id {}
@@ -180,7 +190,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 </style>
 
 </head>
-<body class="archive post-type-archive post-type-archive-case_studies wp-theme-stellarthemeresources logged-out essb-11.4 wpb-js-composer js-comp-ver-8.7.3 vc_responsive">
+<body class="wp-singular case_studies-template-default single single-case_studies postid-22000 wp-theme-stellarthemeresources logged-out essb-11.4 wpb-js-composer js-comp-ver-8.7.3 vc_responsive">
 
 <div id="skip"><a href="#content">Skip to Main Content</a></div>
 <body>
@@ -211,7 +221,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                     <li class="nav-main-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-19166">
                 <a class="nav-main-link " href="/public-affairs/">Public Affairs</a>
                             </li>
-                    <li class="nav-main-item  menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-19172">
+                    <li class="nav-main-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-19172">
                 <a class="nav-main-link " href="/case-studies/">Case Studies</a>
                             </li>
                     <li class="nav-main-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-19165">
@@ -262,7 +272,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                                                             <li class="nav-main-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
                                     <a class="nav-main-link " href="/public-affairs/">Public Affairs</a>
                                                                     </li>
-                                                            <li class="nav-main-item  menu-item menu-item-type-post_type_archive menu-item-object-case_studies current-menu-item menu-item-19173">
+                                                            <li class="nav-main-item  menu-item menu-item-type-post_type_archive menu-item-object-case_studies menu-item-19173">
                                     <a class="nav-main-link " href="/case-studies/">Case Studies</a>
                                                                     </li>
                                                     </ul>
@@ -310,7 +320,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                                             <li class="nav-main-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
                             <a class="nav-main-link " href="/public-affairs/">Public Affairs</a>
                                                     </li>
-                                            <li class="nav-main-item  menu-item menu-item-type-post_type_archive menu-item-object-case_studies current-menu-item menu-item-19173">
+                                            <li class="nav-main-item  menu-item menu-item-type-post_type_archive menu-item-object-case_studies menu-item-19173">
                             <a class="nav-main-link " href="/case-studies/">Case Studies</a>
                                                     </li>
                                     </ul>
@@ -319,203 +329,97 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
     </div>
 </section>
         
-          <div class="page-header">
-      <div class="header-container">
-        <div class="grid-container">
-          <h1>Public Policy and Lobbying Success Stories</h1>
-        </div>
-      </div>
-  </div>
-
+                            
         <div id="sticky-start"></div>
 
                     <main class="content">
-                    <div class="grid-container blog-posts">
-        <div class="blog-header">
+                  <div class="page-header">
+      <div class="header-container">
+        <div class="grid-container">
+          <h1>Modernizing Access to Rural Broadband Funding</h1>
+        </div>
+      </div>
+  </div>
+  <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+          <div class="cell">
+              <article class="single">
+                <div class="c-study-feat">
+                  <img src=/wp-content/uploads/2025/06/rural-oregon-broadband-600x0-c-default.jpg>
+                </div>
+
+               <div class="c-study-cards">
+                  <div class="c-study-card c-study-challenge">
+                    <div class="card-head">
+                      <img src="/wp-content/uploads/2024/10/CFM-challenge-icon.png">
+                      <h2>Challenge</h2>
+                    </div>
+                    <div class="card-body">
+                      More than 40,000 rural Oregon households remain without reliable broadband access, limiting economic development, telehealth access, and remote learning. Federal broadband expansion grants required a state matching contribution, but competing budget priorities left the funding request stalled in committee with less than two months left in the session.
+                    </div>
                   </div>
-        <div class="grid-x grid-padding-x">
-          <section class="archive cell small-12">
-                      <div class="category-header">
-              <h2 class="category-title">Federal</h2>
-              <p><img class="hide-for-small-only alignleft wp-image-19179 size-full" src="/wp-content/uploads/2022/05/federal-1.jpg" alt="" width="1200" height="200" /></p>            </div>
-            <div class="grid-x grid-padding-x case-studies">
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/securing-federal-funding-for-rural-fire-department/" title="Securing Federal Funding for a Rural Fire Department" class="thumbnail">
-        <img src="/wp-content/uploads/2025/06/rural-fire-department-670x455-c-default.jpg" alt="Image for Securing Federal Funding for a Rural Fire Department" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Securing Federal Funding for a Rural Fire Department</h3>
-        <p>Helping a rural volunteer fire department reframe its case around regional response gaps to win roughly $850,000 in federal FEMA funding for new equipment.</p>
-    <a href="/case_studies/securing-federal-funding-for-rural-fire-department/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/building-the-case-for-completing-rail-corridor-2/" title="Building the Case for Completing Rail Corridor" class="thumbnail">
-        <img src="/wp-content/uploads/2022/04/1a-Port-of-Longview-Rail-Infrastructure-Improvements-red-scaled-1-670x455-c-default.jpg" alt="Image for Building the Case for Completing Rail Corridor" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Building the Case for Completing Rail Corridor</h3>
-        <p>Rewriting a federal grant application combined with effective advocacy resulted in $16 million for the Port of Longview rail corridor.</p>
-    <a href="/case_studies/building-the-case-for-completing-rail-corridor-2/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/responding-to-catastrophic-flood-prevention/" title="Responding to Catastrophic Flood Prevention" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/mtsthelens-lo-670x455-c-default.jpg" alt="Image for Responding to Catastrophic Flood Prevention" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Responding to Catastrophic Flood Prevention</h3>
-        <p>Unplugging a bureaucratic logjam that allowed resumption of annual Mt. St. Helens surveys to protect communities from catastrophic flooding.</p>
-    <a href="/case_studies/responding-to-catastrophic-flood-prevention/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/creating-a-new-veterans-center-in-lacey/" title="Creating a New Veterans Center in Lacey" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/TeamHealth-Veterans-670x455-c-default.jpg" alt="Image for Creating a New Veterans Center in Lacey" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Creating a New Veterans Center in Lacey</h3>
-        <p>Navigating bureaucratic obstacles to establish a new Veterans Center in a Washington community with a growing population of veterans.</p>
-    <a href="/case_studies/creating-a-new-veterans-center-in-lacey/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/barging-solid-waste-containers-into-the-future/" title="Barging Solid Waste Containers into the Future" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/Tidewater.jpg-670x455-c-default.webp" alt="Image for Barging Solid Waste Containers into the Future" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Barging Solid Waste Containers into the Future</h3>
-        <p>Applying targeted grant strategies resulted in multiple-year funding to support growing use of solid waste containers on the Columbia River.</p>
-    <a href="/case_studies/barging-solid-waste-containers-into-the-future/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/restoring-county-funding-for-search-and-rescue/" title="Restoring County Funding for Search and Rescue" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/Search-and-Rescue-2-670x455-c-default.jpg" alt="Image for Restoring County Funding for Search and Rescue" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Restoring County Funding for Search and Rescue</h3>
-        <p>Building a coalition to gain bipartisan congressional support for a measure to allow spending on search and rescue operations.</p>
-    <a href="/case_studies/restoring-county-funding-for-search-and-rescue/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/securing-funding-for-electric-buses-in-salem/" title="Securing Funding for Electric Buses in Salem" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/Cherriots-Electric-Bus.jpg-670x455-c-default.webp" alt="Image for Securing Funding for Electric Buses in Salem" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Securing Funding for Electric Buses in Salem</h3>
-        <p>Teaming with local transit staff to secure four federal grant awards totaling nearly $23 million to buy 20 electric buses.</p>
-    <a href="/case_studies/securing-funding-for-electric-buses-in-salem/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/building-the-case-for-completing-rail-corridor/" title="Saving Historic Pearson Field in Vancouver" class="thumbnail">
-        <img src="/wp-content/uploads/2025/05/Airport-Vancouver-VUO-670x455-c-default.jpg" alt="Image for Saving Historic Pearson Field in Vancouver" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Saving Historic Pearson Field in Vancouver</h3>
-        <p>Persuading a federal agency to back off a regulation that would have restricted flights at Pearson Airport in Vancouver.</p>
-    <a href="/case_studies/building-the-case-for-completing-rail-corridor/" class="read-more">Read More</a>
-  </div>
-              </div>
-                          </div>
-                      <div class="category-header">
-              <h2 class="category-title">Public Affairs</h2>
-              <p><img class="hide-for-small-only alignleft wp-image-19178 size-full" src="/wp-content/uploads/2022/05/public-affairs-1.jpg" alt="" width="1200" height="200" /></p>            </div>
-            <div class="grid-x grid-padding-x case-studies">
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/erickson-inc/" title="Erickson, Inc." class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/image002-670x455-c-default.jpg" alt="Image for Erickson, Inc." />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Erickson, Inc.</h3>
-        <p>Helping an industrial helicopter company prepare for a crisis and then deal with a crisis.</p>
-    <a href="/case_studies/erickson-inc/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/" title="Navigating School Labor Talks and Avoiding a Strike" class="thumbnail">
-        <img src="/wp-content/uploads/2025/05/Teacher-05.jpg-670x455-c-default.webp" alt="Image for Navigating School Labor Talks and Avoiding a Strike" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Navigating School Labor Talks and Avoiding a Strike</h3>
-        <p>Assisting school district leaders navigate major budget cuts, tense labor negotiations and the possibility of a strike.</p>
-    <a href="/case_studies/navigating-school-labor-talks-and-avoiding-a-strike/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/making-the-case-for-transit-funding-statewide/" title="Making the Case for Transit Funding Statewide" class="thumbnail">
-        <img src="/wp-content/uploads/2025/05/Bus-and-Bridge-670x455-c-default.jpg" alt="Image for Making the Case for Transit Funding Statewide" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Making the Case for Transit Funding Statewide</h3>
-        <p>Assisting small, rural transit agencies tell their success stories of how new investments translated into more riders.</p>
-    <a href="/case_studies/making-the-case-for-transit-funding-statewide/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/highlighting-challenges-facing-older-adults/" title="Highlighting Challenges Facing Older Adults" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/AGEPLUS-Logo-Tag-Raster-RGB-72ppi.png-670x455-c-default.webp" alt="Image for Highlighting Challenges Facing Older Adults" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Highlighting Challenges Facing Older Adults</h3>
-        <p>Sharpening communications for a nonprofit and an institute advocating on behalf of older and disabled adults. </p>
-    <a href="/case_studies/highlighting-challenges-facing-older-adults/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/sharing-communication-tips-with-city-lobbyists/" title="Sharing Communication Tips with City Lobbyists" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/AdobeStock_886437786-scaled-670x455-c-default.jpeg" alt="Image for Sharing Communication Tips with City Lobbyists" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Sharing Communication Tips with City Lobbyists</h3>
-        <p>Offering insights and experience through media training on how to sharpen messages to the media and legislators. </p>
-    <a href="/case_studies/sharing-communication-tips-with-city-lobbyists/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/marketing-a-pioneering-public-retirement-savings-plan/" title="Marketing a Pioneering Public Retirement Savings Plan" class="thumbnail">
-        <img src="/wp-content/uploads/2025/05/Retirement-Savings-670x455-c-default.jpg" alt="Image for Marketing a Pioneering Public Retirement Savings Plan" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Marketing a Pioneering Public Retirement Savings Plan</h3>
-        <p>Getting a first-in-the-nation public retirement savings plan off the ground by easing business concerns, listening to target savers and creating appealing branding.</p>
-    <a href="/case_studies/marketing-a-pioneering-public-retirement-savings-plan/" class="read-more">Read More</a>
-  </div>
-              </div>
-                          </div>
-                      <div class="category-header">
-              <h2 class="category-title">State</h2>
-              <p><img class="hide-for-small-only alignleft wp-image-19177 size-full" src="/wp-content/uploads/2022/05/state-2.jpg" alt="" width="1200" height="200" /></p>            </div>
-            <div class="grid-x grid-padding-x case-studies">
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/modernizing-access-to-rural-broadband-funding/" title="Modernizing Access to Rural Broadband Funding" class="thumbnail">
-        <img src="/wp-content/uploads/2025/06/rural-oregon-broadband-670x455-c-default.jpg" alt="Image for Modernizing Access to Rural Broadband Funding" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Modernizing Access to Rural Broadband Funding</h3>
-        <p>Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines.</p>
-    <a href="/case_studies/modernizing-access-to-rural-broadband-funding/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/preserving-critical-support-for-child-abuse-victims/" title="Preserving Critical Support for Child Abuse Victims" class="thumbnail">
+                  <div class="c-study-card c-study-approach">
+                    <div class="card-head">
+                      <img src="/wp-content/uploads/2024/10/CFM-approach-icon.png">
+                      <h2>Approach</h2>
+                    </div>
+                    <div class="card-body">
+                      CFM, representing a coalition of rural county governments and internet service cooperatives, built a bipartisan case centered on economic development rather than infrastructure alone. The team coordinated testimony from small business owners and school district officials in affected counties, paired with data showing the return on investment from matching federal dollars. CFM also worked directly with budget committee staff to identify an existing capital reserve fund that could cover the match without new revenue.
+                    </div>
+                  </div>
+                  <div class="c-study-card c-study-success">
+                    <div class="card-head">
+                      <img src="/wp-content/uploads/2024/10/CFM-success-icon.png">
+                      <h2>Success</h2>
+                    </div>
+                    <div class="card-body">
+                      The legislature approved the full matching allocation in the final week of session, unlocking over $18 million in federal broadband grants for rural Oregon. Construction on the first phase of expanded fiber access is expected to begin within the year, with CFM continuing to advise the coalition on implementation and future funding rounds.
+                    </div>
+                  </div>
+               </div>
+
+                <div class="categories">
+                                    </div>
+                <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cfmadvocates.com/case_studies/modernizing-access-to-rural-broadband-funding/"
+  },
+  "headline": "Modernizing Access to Rural Broadband Funding",
+  "image": [
+    "https://cfmadvocates.com/wp-content/uploads/2025/06/rural-oregon-broadband.jpg"
+   ],
+  "datePublished": "2024-11-02T18:07:48-07:00",
+  "dateModified": "2024-11-02T18:07:48-07:00",
+  "author": {
+    "@type": "Person",
+    "name": "Cindy Brown"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "CFM Advocates",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cfmadvocates.com/wp-content/uploads/2024/11/CFM-logo-new.png"
+    }
+  },
+  "description": "Helping secure state matching funds to close the broadband gap for rural Oregon communities left behind by federal infrastructure timelines."
+}
+</script>
+              </article>
+          </div>
+      </div>
+    </div>    
+    <div class="other-case-studies">
+      <div class="grid-container">
+        <h2>OTHER CFM SUCCESSES</h2>
+        <p>Take a look at <a href="">all our case studies here.</a></p>
+                  <div class="grid-x grid-padding-x post-grid">
+                            <div class="post-shortcode cell small-12 medium-4">
+                        <a href="/case_studies/preserving-critical-support-for-child-abuse-victims/" title="Preserving Critical Support for Child Abuse Victims" class="thumbnail">
         <img src="/wp-content/uploads/2024/11/Oregon-CASA-670x455-c-default.jpeg" alt="Image for Preserving Critical Support for Child Abuse Victims" />
     </a>
  
@@ -524,9 +428,9 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
         <p>Using shuttle diplomacy to avert serious child advocacy budget cuts by convincing lawmakers to backfill stalled federal financial support.</p>
     <a href="/case_studies/preserving-critical-support-for-child-abuse-victims/" class="read-more">Read More</a>
   </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/" title="Preventing a Tax on Broadcaster FCC Licenses" class="thumbnail">
+                                    </div>
+                            <div class="post-shortcode cell small-12 medium-4">
+                        <a href="/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/" title="Preventing a Tax on Broadcaster FCC Licenses" class="thumbnail">
         <img src="/wp-content/uploads/2024/11/KOIN-Tower-670x455-c-default.jpg" alt="Image for Preventing a Tax on Broadcaster FCC Licenses" />
     </a>
  
@@ -535,20 +439,9 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
         <p>Developing a consensus legislative fix for broadcasters to avoid state taxation of intangible assets like FCC licenses. </p>
     <a href="/case_studies/preventing-a-tax-on-broadcaster-fcc-licenses/" class="read-more">Read More</a>
   </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/heading-off-a-veto-for-critical-infrastructure/" title="Heading Off a Veto for Critical Infrastructure" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/WWSP_WTP_NeighMtg_PlanSet_reduced-9-crop-670x455-c-default.jpg" alt="Image for Heading Off a Veto for Critical Infrastructure" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Heading Off a Veto for Critical Infrastructure</h3>
-        <p>Making a successful case that funding for a new seismically resilient pump station would support the governor’s goal of increased housing.</p>
-    <a href="/case_studies/heading-off-a-veto-for-critical-infrastructure/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/restoring-tax-credits-to-buy-zero-emission-buses/" title="Restoring Tax Credits to Buy Zero-Emission Buses" class="thumbnail">
+                                    </div>
+                            <div class="post-shortcode cell small-12 medium-4">
+                        <a href="/case_studies/restoring-tax-credits-to-buy-zero-emission-buses/" title="Restoring Tax Credits to Buy Zero-Emission Buses" class="thumbnail">
         <img src="/wp-content/uploads/2024/11/Cherriots-E-Bus.jpg-670x455-c-default.webp" alt="Image for Restoring Tax Credits to Buy Zero-Emission Buses" />
     </a>
  
@@ -557,45 +450,11 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
         <p>Finding a way to salvage tax credits for Cherriots that now can be used to buy zero-emission buses.</p>
     <a href="/case_studies/restoring-tax-credits-to-buy-zero-emission-buses/" class="read-more">Read More</a>
   </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/training-young-lawyers-to-represent-defendants/" title="Training Young Lawyers to Represent Defendants" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/Lewis-and-Clark-Law-Studemts-670x455-c-default.jpg" alt="Image for Training Young Lawyers to Represent Defendants" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Training Young Lawyers to Represent Defendants</h3>
-        <p>Funding Oregon law schools to train law students on to assist clients charged with misdemeanors without lawyers.</p>
-    <a href="/case_studies/training-young-lawyers-to-represent-defendants/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/securing-funding-to-replace-aging-county-courthouse/" title="Securing Funding to Replace Aging County Courthouse" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/0731_Benton_Courthouse_01_WEB-1-670x455-c-default.jpg" alt="Image for Securing Funding to Replace Aging County Courthouse" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Securing Funding to Replace Aging County Courthouse</h3>
-        <p>Working collaboratively with county and state officials to win legislative approval for increased state matching funds for a courthouse replacement.</p>
-    <a href="/case_studies/securing-funding-to-replace-aging-county-courthouse/" class="read-more">Read More</a>
-  </div>
-              </div>
-                            <div class="archive-post-teaser archive cell small-12 medium-4">
-                    <a href="/case_studies/securing-funding-for-a-state-road-in-tigard/" title="Securing Funding for a State Road in Tigard" class="thumbnail">
-        <img src="/wp-content/uploads/2024/11/Hall-Street-670x455-c-default.jpeg" alt="Image for Securing Funding for a State Road in Tigard" />
-    </a>
- 
-  <div class="featured-excerpt">
-    <h3>Securing Funding for a State Road in Tigard</h3>
-        <p>Despite a late start, winning approval of funding to repair a state road that serves as a busy local street.</p>
-    <a href="/case_studies/securing-funding-for-a-state-road-in-tigard/" class="read-more">Read More</a>
-  </div>
-              </div>
-                          </div>
-                    </section>
-        </div>
+                                    </div>
+                      </div>
+                      </div>
     </div>
-                </main>
+            </main>
         
                     <footer class="footer">
       <div class="grid-container">
@@ -617,10 +476,10 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
                               <div class="shrink cell medium-text-center">
               <div id="block-8" class="widget widget_block"><h4>Free Updates in your Inbox</h4>
 
-                <div class='gf_browser_gecko gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' >
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' >
                         <div class='gform_heading'>
                             <p class='gform_description'></p>
-                        </div><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/case-studies/' data-formid='1' novalidate>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/case_studies/modernizing-access-to-rural-broadband-funding/' data-formid='1' novalidate>
                         <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_1_3" class="gfield gfield--type-name gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_1_3'>
                             
                             <span id='input_1_3_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
@@ -643,7 +502,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
             <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
             <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
             
-            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='USD' value='urtQGkc7WvC0f9hIJGMXWFOj+YnekeWp2UGL9WEfMIcrZdIVAg2T238LFwMHn+3wXqESc3YbH9+RpcUApkirR3vEIAN8aSwJKSy/uEFfnm7YJ54=' />
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='USD' value='kEheEJ3XD90myVjfT9GHuxV78vxnRqtaOQ+j4gNSaYj1rkKVvHcqvQzREhq2H8uv6KNkNQnstKZUXLF2PsifM6iSbdFCk1IxDzfTB36cMD3X9VY=' />
             <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
             <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjBmYTQ5YjIzY2UxZjQ1Y2YxNTQ2ZjU5NmYxYmYzODcwIl0=' />
             <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
@@ -727,7 +586,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script id="gform_placeholder-js" defer='defer' src="/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js"></script>
 <script id="gform_gravityforms_theme_vendors-js" defer='defer' src="/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js"></script>
 <script id="gform_gravityforms_theme-js-extra">
-var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"45f160eaa5aa5a7281b5eea803e0396f"},"ajax":{"ajaxurl":"https://cfmadvocates.com/wp-admin/admin-ajax.php","ajax_submission_nonce":"1f9a2a62ea","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"hmr_dev":"","public_path":"https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"d5148168bf"};
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"45f160eaa5aa5a7281b5eea803e0396f"},"ajax":{"ajaxurl":"https://cfmadvocates.com/wp-admin/admin-ajax.php","ajax_submission_nonce":"62b17a05ef","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"hmr_dev":"","public_path":"https://cfmadvocates.com/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"16a51346d8"};
 //# sourceURL=gform_gravityforms_theme-js-extra
 </script>
 <script id="gform_gravityforms_theme-js" defer='defer' src="/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js"></script>
@@ -737,7 +596,7 @@ var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"45f160ea
 <script id="subscribe-forms-js-js" src="/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js"></script>
 <script id="easy-social-share-buttons-core-js" src="/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"></script>
 <script id="easy-social-share-buttons-core-js-after">
-var essb_settings = {"ajax_url":"https:\/\/cfmadvocates.com\/wp-admin\/admin-ajax.php","essb3_nonce":"6321e73360","essb3_plugin_url":"https:\/\/cfmadvocates.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/cfmadvocates.com\/","post_id":"21425"};
+var essb_settings = {"ajax_url":"https:\/\/cfmadvocates.com\/wp-admin\/admin-ajax.php","essb3_nonce":"fc71620dc1","essb3_plugin_url":"https:\/\/cfmadvocates.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/cfmadvocates.com\/","post_id":"21433"};
 //# sourceURL=easy-social-share-buttons-core-js-after
 </script>
 <script></script><style type="text/css" data-key="essb-copylink-popup">.essb-copylink-shadow{display:none;align-items:center;justify-content:center;position:fixed;top:0;left:0;z-index:1300;background-color:rgba(0,0,0,0.2);width:100%;height:100%}.essb-copylink-window{width:90%;max-width:600px;display:none;align-items:center;justify-content:center;flex-direction:column;overflow.:hidden;z-index:1310;background-color:#fff;border-radius:5px;overflow:hidden}.essb-copylink-window-header{width:100%;display:flex;align-items:center;justify-content:space-between;overflow:hidden;font-size:16px;padding:10px;background-color:#1b84ff;color:#fff}.essb-copylink-window-content{width:100%;padding:20px}.essb-copylink-window-close{fill:#fff}</style><div class="essb-copylink-shadow"><div class="essb-copylink-window"><div class="essb-copylink-window-header"> <span>&nbsp;</span> <a href="#" class="essb-copylink-window-close"><svg style="width: 24px; height: 24px; padding: 5px;" height="32" viewBox="0 0 32 32" width="32" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M32,25.7c0,0.7-0.3,1.3-0.8,1.8l-3.7,3.7c-0.5,0.5-1.1,0.8-1.9,0.8c-0.7,0-1.3-0.3-1.8-0.8L16,23.3l-7.9,7.9C7.6,31.7,7,32,6.3,32c-0.8,0-1.4-0.3-1.9-0.8l-3.7-3.7C0.3,27.1,0,26.4,0,25.7c0-0.8,0.3-1.3,0.8-1.9L8.7,16L0.8,8C0.3,7.6,0,6.9,0,6.3c0-0.8,0.3-1.3,0.8-1.9l3.7-3.6C4.9,0.2,5.6,0,6.3,0C7,0,7.6,0.2,8.1,0.8L16,8.7l7.9-7.9C24.4,0.2,25,0,25.7,0c0.8,0,1.4,0.2,1.9,0.8l3.7,3.6C31.7,4.9,32,5.5,32,6.3c0,0.7-0.3,1.3-0.8,1.8L23.3,16l7.9,7.9C31.7,24.4,32,25,32,25.7z"/></svg></a> </div><div class="essb-copylink-window-content"><div class="essb_copy_internal" style="display: flex; align-items: center;"><div style="width: calc(100% - 50px); padding: 5px;"><input type="text" id="essb_copy_link_field" style="width: 100%;padding: 5px 10px;font-size: 15px;background: #f5f6f7;border: 1px solid #ccc;font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif;" /></div><div style="width:50px;text-align: center;"><a href="#" class="essb-copy-link" title="Press to copy the link" style="color:#5867dd;background:#fff;padding:10px;text-decoration: none;"><svg style="width: 24px; height: 24px; fill: currentColor;" class="essb-svg-icon" aria-hidden="true" role="img" focusable="false" width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M25.313 28v-18.688h-14.625v18.688h14.625zM25.313 6.688c1.438 0 2.688 1.188 2.688 2.625v18.688c0 1.438-1.25 2.688-2.688 2.688h-14.625c-1.438 0-2.688-1.25-2.688-2.688v-18.688c0-1.438 1.25-2.625 2.688-2.625h14.625zM21.313 1.313v2.688h-16v18.688h-2.625v-18.688c0-1.438 1.188-2.688 2.625-2.688h16z"></path></svg></a></div></div><div class="essb-copy-message" style="font-size: 13px; font-family: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif;"></div></div></div></div><script type="text/javascript">function essb_open_copy_link_window(e,o){let s=window.location.href;if(e&&document.querySelector(".essb_"+e)){let n=document.querySelector(".essb_"+e).getAttribute("data-essb-url")||"";""!=n&&(s=n)}if(o&&""!=o&&(s=o),essb_settings&&essb_settings.copybutton_direct){essb.copy_link_direct(s);return}document.querySelector(".essb-copylink-window")&&(document.querySelector("#essb_copy_link_field")&&(document.querySelector("#essb_copy_link_field").value=s),document.querySelector(".essb-copylink-window").style.display="flex",document.querySelector(".essb-copylink-shadow").style.display="flex",document.querySelector(".essb-copylink-window-close")&&(document.querySelector(".essb-copylink-window-close").onclick=function(e){e.preventDefault(),document.querySelector(".essb-copylink-window").style.display="none",document.querySelector(".essb-copylink-shadow").style.display="none"}),document.querySelector(".essb-copylink-window .essb-copy-link")&&(document.querySelector(".essb-copylink-window .essb-copy-link").onclick=function(e){e.preventDefault();let o=document.querySelector("#essb_copy_link_field");try{o.focus(),o.select(),o.setSelectionRange(0,99999),document.execCommand("copy"),navigator.clipboard.writeText(o.value),document.querySelector(".essb-copylink-window .essb-copylink-window-header span").innerHTML=essb_settings.translate_copy_message2?essb_settings.translate_copy_message2:"Copied to clipboard.",setTimeout(function(){document.querySelector(".essb-copylink-window .essb-copylink-window-header span").innerHTML="&nbsp;"},2e3)}catch(s){console.log(s.stack),document.querySelector(".essb-copylink-window .essb-copylink-window-header span").innerHTML=essb_settings.translate_copy_message3?essb_settings.translate_copy_message3:"Please use Ctrl/Cmd+C to copy the URL.",setTimeout(function(){document.querySelector(".essb-copylink-window .essb-copylink-window-header span").innerHTML="&nbsp;"},2e3)}}))}</script><script>
